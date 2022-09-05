@@ -59,7 +59,8 @@ a {
 
 #projects h2 {
     max-width: 640px;
-    margin: 0 auto 6rem auto;
+    margin: 0 auto 2rem auto;
+    padding: 10px 0;
     border-bottom: 0.2rem solid #fff;
 }
 
@@ -110,14 +111,14 @@ a {
   }
   
   .project-image {
-    height: calc(100% - 5.8rem);
+    height: calc(100% - 4.1rem);
     width: 100%;
     object-fit: cover;
   }
   
   .project-title {
     font-size: 1.5rem;
-    padding: 2rem 0.5rem;
+    padding: 1rem 0.5rem;
   }
   
   .btn {
